@@ -1,4 +1,4 @@
-// Copyright 2023 - Popescu Iulia Cleopatra - 323CA
+// Copyright 2023 - Popescu Cleopatra - 323CA
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/socket.h>
