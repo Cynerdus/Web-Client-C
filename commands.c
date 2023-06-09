@@ -72,7 +72,7 @@ void _register(int sockfd) {
     send_to_server(sockfd, message);
     server_response = receive_from_server(sockfd);
 
-    /* Extracting error messaje beforehand, in case if needed */
+    /* Extracting error message beforehand, in case if needed */
     char *error = basic_extract_json_response(server_response);
 
     server_response[12] = '\0'; // HTTP/1.1 xxx => 12 characters
