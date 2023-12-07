@@ -1,6 +1,6 @@
 # WEB CLIENT
 
-Assignment for 2nd year PCOM module.
+Assignment for 2nd year Communication Protocols module.
 
 Web Client. REST API Communication.
 
